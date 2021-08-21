@@ -21,5 +21,5 @@
 
 ## Tech Stack
 
-:clapper: **Fron-end** React <br>
-:clapper: **Delpoy** Vercel<br>
+:clapper: **Front-end** React <br>
+:clapper: **Deploy** Vercel<br>
